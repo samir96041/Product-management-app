@@ -1,0 +1,26 @@
+{
+  "name": "productmanagement-app",
+  "version": "1.0.0",
+  "main": "web/index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "shopify": "shopify",
+    "build": "shopify app build",
+    "dev": "shopify app dev",
+    "info": "shopify app info",
+    "generate": "shopify app generate",
+    "deploy": "shopify app deploy"
+  },
+  "dependencies": {
+    "@shopify/app-bridge-react": "^4.1.5",
+    "axios": "^1.7.7",
+    "multer": "^1.4.5-lts.1"
+  },
+  "author": "LENOVO",
+  "private": true,
+  "workspaces": [
+    "extensions/*",
+    "web",
+    "web/frontend"
+  ]
+}
