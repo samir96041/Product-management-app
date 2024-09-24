@@ -244,4 +244,4 @@ pnpm dev --tunnel-url https://randomly-generated-hostname.trycloudflare.com:3000
   - [i18n-ally VS Code extension](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
 
 # Product-management-app
->>>>>>> 4092a11e28aeea75f6d5bb4be945afa50997836e
+ 4092a11e28aeea75f6d5bb4be945afa50997836e
