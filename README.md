@@ -1,4 +1,5 @@
  HEAD
+ HEAD
 # Shopify App Template for Node
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
@@ -245,3 +246,6 @@ pnpm dev --tunnel-url https://randomly-generated-hostname.trycloudflare.com:3000
 
 # Product-management-app
  4092a11e28aeea75f6d5bb4be945afa50997836e
+
+# Product-management-app
+fce0e4ec9b1c1b318132825fec9a6fdc71546556
